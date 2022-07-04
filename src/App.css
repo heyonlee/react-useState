@@ -1,0 +1,23 @@
+.name{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+
+.container{
+    width: 250px;
+    height: 300px;
+    border: 3px solid sandybrown;
+    margin:1rem;
+}
+.wrapper{
+    display: flex;
+}
+span{
+    font-weight: bold;
+    color: blueviolet;
+}
+ul{
+    list-style: none
+}
